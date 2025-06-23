@@ -3,7 +3,7 @@ name: main taski workflow
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   checkout-and-tree-print:
